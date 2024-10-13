@@ -1,0 +1,31 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Breadcrumbs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-29 06:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Domain: breadcrumbs"
+
+#. Author of the plugin
+msgid "Aleksey Tikhomirov"
+msgstr ""
+
+#. Name of the plugin
+msgid "Breadcrumbs"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WordPress breadcrumbs plugin with support schema.org. PHP 8.2 ready. How to "
+"use: breadcrumbs() or shortcode: [breadcrumbs] ;"
+msgstr ""

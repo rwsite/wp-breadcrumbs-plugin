@@ -1,0 +1,15 @@
+{
+  "name": "rwsite/wp-breadcrumbs-plugin",
+  "description": "WordPress breadcrumbs plugin with support schema.org.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Aleksei Tikhomirov",
+      "email": "alex@rwsite.ru"
+    }
+  ],
+  "require": {
+  }
+}
